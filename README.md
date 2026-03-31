@@ -22,5 +22,5 @@ This project predicts the future stock prices using a Linear Regression model. I
 - Navigate to the folder where main.py is saved.
 - Run the program using:python
 
-# - Name: Amogh Rana
-# - Registration No:  25BAI11455
+# - Name:-Khushi Singhi
+# - Registration No:  25BAI11110
